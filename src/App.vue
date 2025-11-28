@@ -1,9 +1,15 @@
 <script setup>
+import FooterView from './components/FooterView.vue';
+import HeaderView from './components/HeaderView.vue';
 </script>
 
 <template>
-   <router-view />
+  <HeaderView />
+
+    <main class="min-h-screen">
+      <router-view />
+    </main>
+
+    <FooterView />
 </template>
 
-<style scoped>
-</style>

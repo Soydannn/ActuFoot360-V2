@@ -1,5 +1,5 @@
-<script>
+<script setup>
 </script>
 <template>
-    <h1>Tu as reussis !</h1>
+        <h1>Heyy!!!</h1>
 </template>
