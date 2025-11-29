@@ -12,4 +12,3 @@ import HeaderView from './components/HeaderView.vue';
 
     <FooterView />
 </template>
-
